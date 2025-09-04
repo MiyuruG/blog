@@ -31,19 +31,19 @@ That’s my taste — and here are some books that match it:&lt;/p&gt;</descript
       <link>http://localhost:1313/posts/exe-2025-gamejam/</link>
       <pubDate>Thu, 28 Aug 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/exe-2025-gamejam/</guid>
-      <description>&lt;p&gt;working on it&amp;hellip;&lt;/p&gt;
-&lt;h1 id=&#34;testing&#34;&gt;testing&lt;/h1&gt;
-&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=-05mOdHmQVc&#34;&gt;hey test&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/images/Pasted%20image%2020250831202724.png&#34;&gt;
-testing anime hehe&lt;/p&gt;</description>
+      <description>&lt;p&gt;testing
+&lt;a href=&#34;https://www.youtube.com/watch?v=-05mOdHmQVc&#34;&gt;hey test&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;[[Pasted image 20250831202724.png]]
+testing anime hehe&lt;/p&gt;
+&lt;p&gt;����������������������������������������&lt;/p&gt;</description>
     </item>
     <item>
       <title>Who is McBoss?</title>
       <link>http://localhost:1313/posts/who-is-mcboss/</link>
       <pubDate>Thu, 28 Aug 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/posts/who-is-mcboss/</guid>
-      <description>&lt;p&gt;me)
-I’m a student living in Sri Lanka. I am still going to school.&lt;/p&gt;
+      <description>&lt;h1 id=&#34;mcboss-about-me&#34;&gt;McBoss (About me)&lt;/h1&gt;
+&lt;p&gt;I’m a student living in Sri Lanka. I am still going to school.&lt;/p&gt;
 &lt;h3 id=&#34;hobbies&#34;&gt;Hobbies&lt;/h3&gt;
 &lt;p&gt;Furthermore, I have a lot of hobbies like&lt;/p&gt;
 &lt;ul&gt;
@@ -69,13 +69,6 @@ I’m a student living in Sri Lanka. I am still going to school.&lt;/p&gt;
 &lt;p&gt;That&amp;rsquo;s pretty much it. I like to keep things simple and spontaneous.&lt;/p&gt;
 &lt;hr&gt;
 &lt;p&gt;Want to know more? Check out my detailed post: &lt;strong&gt;&lt;a href=&#34;http://localhost:1313/posts/who-is-mcboss/&#34;&gt;Who is McBoss?&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Your Post Title</title>
-      <link>http://localhost:1313/posts/shit/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/shit/</guid>
-      <description>&lt;p&gt;shit on my face&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
