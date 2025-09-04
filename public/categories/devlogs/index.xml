@@ -4,6 +4,11 @@
     <title>DevLogs on McBoss</title>
     <link>http://localhost:1313/categories/devlogs/</link>
     <description>Recent content in DevLogs on McBoss</description>
+    <image>
+      <title>McBoss</title>
+      <url>http://localhost:1313/images/og-image.png</url>
+      <link>http://localhost:1313/images/og-image.png</link>
+    </image>
     <generator>Hugo -- 0.149.0</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 28 Aug 2025 00:00:00 +0000</lastBuildDate>
@@ -16,7 +21,7 @@
       <description>&lt;p&gt;working on it&amp;hellip;&lt;/p&gt;
 &lt;h1 id=&#34;testing&#34;&gt;testing&lt;/h1&gt;
 &lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=-05mOdHmQVc&#34;&gt;hey test&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;images/Pasted image 20250831202724.png
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/images/Pasted%20image%2020250831202724.png&#34;&gt;
 testing anime hehe&lt;/p&gt;</description>
     </item>
   </channel>

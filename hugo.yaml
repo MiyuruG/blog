@@ -8,6 +8,30 @@ params:
   assets:
     favicon: "/favicon.ico"
 
+  # Meta tags and social media previews
+  env: production # to enable google analytics, opengraph, twitter-cards and schema.
+  title: "McBoss Blog"
+  description: "Welcome to my blog! I post anything I like: DevLogs, books, hobbies, games… anything random."
+  keywords: [Blog, Personal, DevLogs, Books, Hobbies, Games, Tech, Programming]
+  author: "McBoss"
+  images: ["/images/og-image.png"] # Default OG image
+  DateFormat: "January 2, 2006"
+  defaultTheme: auto # auto, light, dark
+
+  # SEO and social media
+  analytics:
+    google:
+      SiteVerificationTag: "" # Add your Google verification tag if you have one
+  
+  # Social media cards
+  socialIcons:
+    - name: "github"
+      url: "https://github.com/MiyuruG"
+    - name: "discord"
+      url: "https://discord.gg/MAknfWe2Rf"
+    - name: "aboutme"
+      url: "aboutme"
+
   # Theme settings
   # defaultTheme: auto # to switch between light or dark according to browser theme
   # defaultTheme: light
@@ -37,15 +61,6 @@ params:
       I post anything I like: DevLogs, books, hobbies, games… anything.  
       It's random, just how I like it.
 
-  # Social media links
-  socialIcons:
-    - name: "github"
-      url: "https://github.com/MiyuruG"
-    - name: "discord"
-      url: "https://discord.gg/MAknfWe2Rf"
-    - name: "aboutme"
-      url: "aboutme"
-
   # Search settings
   fuseOpts:
     isCaseSensitive: false
@@ -56,10 +71,17 @@ params:
     minMatchCharLength: 0
     keys: ["title", "permalink", "summary", "content"]
 
+# Taxonomies
+taxonomies:
+  category: categories
+  tag: tags
+  series: series
+
 # Output formats (necessary for search functionality)
 outputs:
   home:
     - HTML
+    - RSS
     - JSON
 
 # Navigation menu
@@ -109,6 +131,12 @@ enableEmoji: true
 pagination:
   pagerSize: 10
 
+# SEO and social media configuration
+sitemap:
+  changefreq: weekly
+  priority: 0.5
+  filename: sitemap.xml
+
 # Privacy settings
 privacy:
   vimeo:
@@ -124,3 +152,15 @@ privacy:
   youtube:
     disabled: false
     privacyEnhanced: true
+
+# Security settings
+security:
+  enableInlineShortcodes: false
+  exec:
+    allow: ['^dart-sass-embedded$', '^go$', '^npx$', '^postcss$']
+    osEnv: ['(?i)^(PATH|PATHEXT|APPDATA|TMP|TEMP|TERM)$']
+  funcs:
+    getenv: ['^HUGO_']
+  http:
+    methods: ['(?i)GET|POST']
+    urls: ['.*']

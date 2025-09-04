@@ -4,6 +4,11 @@
     <title>McBoss</title>
     <link>http://localhost:1313/</link>
     <description>Recent content on McBoss</description>
+    <image>
+      <title>McBoss</title>
+      <url>http://localhost:1313/images/og-image.png</url>
+      <link>http://localhost:1313/images/og-image.png</link>
+    </image>
     <generator>Hugo -- 0.149.0</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 02 Sep 2025 00:00:00 +0000</lastBuildDate>
@@ -29,7 +34,7 @@ That’s my taste — and here are some books that match it:&lt;/p&gt;</descript
       <description>&lt;p&gt;working on it&amp;hellip;&lt;/p&gt;
 &lt;h1 id=&#34;testing&#34;&gt;testing&lt;/h1&gt;
 &lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=-05mOdHmQVc&#34;&gt;hey test&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;[[Pasted image 20250831202724.png]]
+&lt;p&gt;&lt;img loading=&#34;lazy&#34; src=&#34;http://localhost:1313/images/Pasted%20image%2020250831202724.png&#34;&gt;
 testing anime hehe&lt;/p&gt;</description>
     </item>
     <item>
@@ -50,6 +55,20 @@ testing anime hehe&lt;/p&gt;</description>
 &lt;li&gt;Traveling&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;I have a lot of hobbies, and I think everyone has their own as well. I&amp;rsquo;d mention that I love to do coding as a hobby. And in that stream I like to do Vibe Coding, Game Dev and Website Building stuff. If I dig deeper into Game Dev as a hobby of mine, I am a complete beginner at right now. Currently, I only participated in a one Game Jam, with a teammate. Game development wasn’t originally my hobby. My teammate convinced me to join a Game Jam, even though we knew we probably wouldn’t place. It was a great experience, though, and now I love game development—it’s become a new hobby of mine. So big shoutout to my teammate. I can’t mention his name since I didn’t ask for permission. But if you guys dig a bit deeper into EXE 2025 Game Jam you will find my teammate. Again, a big shoutout to him. And I will make a New Blog post about the whole Game Jam after the ceremony.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>About Me</title>
+      <link>http://localhost:1313/aboutme/</link>
+      <pubDate>Sun, 01 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/aboutme/</guid>
+      <description>&lt;div style=&#34;text-align: center; margin: 2rem 0;&#34;&gt;
+  &lt;img src=&#34;http://localhost:1313/images/og-image.png&#34; alt=&#34;McBoss Profile&#34; style=&#34;width: 150px; height: 150px; border-radius: 50%; object-fit: cover; border: 3px solid var(--primary); box-shadow: 0 4px 16px rgba(180, 200, 255, 0.2);&#34;&gt;
+&lt;/div&gt;
+&lt;p&gt;Hey there! 👋&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;m &lt;strong&gt;McBoss&lt;/strong&gt;, and I do every kind of random things.&lt;/p&gt;
+&lt;p&gt;That&amp;rsquo;s pretty much it. I like to keep things simple and spontaneous.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Want to know more? Check out my detailed post: &lt;strong&gt;&lt;a href=&#34;http://localhost:1313/posts/who-is-mcboss/&#34;&gt;Who is McBoss?&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
