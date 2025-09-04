@@ -1,0 +1,54 @@
+baseURL: https://mcboss.top/
+languageCode: en-us
+title: McBoss
+theme: ["PaperMod"]
+
+params:
+  # defaultTheme: light
+  # defaultTheme: dark
+  disableThemeToggle: true
+
+  homeInfoParams:
+    Title: Hi there 👋
+    Content: |
+      This is my blog!  
+      I post anything I like: DevLogs, books, hobbies, games… anything.  
+      It's random, just how I like it. 
+
+  socialIcons: # optional
+    - name: "<platform>"
+      url: "<link>"
+    - name: "<platform 2>"
+      url: "<link2>"
+
+outputs:
+  home:
+    - HTML
+    - JSON # necessary for search
+
+menu:
+  main:
+    - identifier: home
+      name: Home
+      url: /
+      weight: 1
+    - identifier: archives
+      name: Archives
+      url: /archives/
+      weight: 3
+    - identifier: categories
+      name: Categories
+      url: /categories/
+      weight: 4
+    - identifier: tags
+      name: Tags
+      url: /tags/
+      weight: 5
+    - identifier: search
+      name: Search
+      url: /search/
+      weight: 6
+    - identifier: posts
+      name: Posts
+      url: /posts/
+      weight: 7

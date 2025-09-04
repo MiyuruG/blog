@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Books on McBoss</title>
+    <link>http://localhost:1313/tags/books/</link>
+    <description>Recent content in Books on McBoss</description>
+    <generator>Hugo -- 0.149.0</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 02 Sep 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/books/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Books I’m Into Right Now</title>
+      <link>http://localhost:1313/posts/books-that-i-like-to-read/</link>
+      <pubDate>Tue, 02 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/books-that-i-like-to-read/</guid>
+      <description>&lt;p&gt;Confession: I love collecting books more than finishing them.&lt;br&gt;
+I’ve only fully read a few, some I’m halfway through, and others are still on my wishlist.&lt;/p&gt;
+&lt;p&gt;This post is my &lt;strong&gt;ongoing book list&lt;/strong&gt; — a mix of favorites, current reads, and books I plan to buy.&lt;br&gt;
+I’ll keep updating it as I continue my reading journey.&lt;/p&gt;
+&lt;h1 id=&#34;types-of-books-i-enjoy&#34;&gt;Types of Books I Enjoy&lt;/h1&gt;
+&lt;p&gt;Mainly, I’m into &lt;strong&gt;Motivation, Romance, and Self-Help&lt;/strong&gt;.&lt;br&gt;
+That’s my taste — and here are some books that match it:&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

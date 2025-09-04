@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on McBoss</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on McBoss</description>
+    <generator>Hugo -- 0.149.0</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 02 Sep 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Books I’m Into Right Now</title>
+      <link>http://localhost:1313/posts/books-that-i-like-to-read/</link>
+      <pubDate>Tue, 02 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/books-that-i-like-to-read/</guid>
+      <description>&lt;p&gt;Confession: I love collecting books more than finishing them.&lt;br&gt;
+I’ve only fully read a few, some I’m halfway through, and others are still on my wishlist.&lt;/p&gt;
+&lt;p&gt;This post is my &lt;strong&gt;ongoing book list&lt;/strong&gt; — a mix of favorites, current reads, and books I plan to buy.&lt;br&gt;
+I’ll keep updating it as I continue my reading journey.&lt;/p&gt;
+&lt;h1 id=&#34;types-of-books-i-enjoy&#34;&gt;Types of Books I Enjoy&lt;/h1&gt;
+&lt;p&gt;Mainly, I’m into &lt;strong&gt;Motivation, Romance, and Self-Help&lt;/strong&gt;.&lt;br&gt;
+That’s my taste — and here are some books that match it:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>EXE 2025 GameJam</title>
+      <link>http://localhost:1313/posts/exe-2025-gamejam/</link>
+      <pubDate>Thu, 28 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/exe-2025-gamejam/</guid>
+      <description>&lt;p&gt;working on it&amp;hellip;&lt;/p&gt;
+&lt;h1 id=&#34;testing&#34;&gt;testing&lt;/h1&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=-05mOdHmQVc&#34;&gt;hey test&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;[[Pasted image 20250831202724.png]]
+testing anime hehe&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Who is McBoss?</title>
+      <link>http://localhost:1313/posts/who-is-mcboss/</link>
+      <pubDate>Thu, 28 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/who-is-mcboss/</guid>
+      <description>&lt;h1 id=&#34;mcboss-about-me&#34;&gt;McBoss (About me)&lt;/h1&gt;
+&lt;p&gt;I’m a student living in Sri Lanka. I am still going to school.&lt;/p&gt;
+&lt;h3 id=&#34;hobbies&#34;&gt;Hobbies&lt;/h3&gt;
+&lt;p&gt;Furthermore, I have a lot of hobbies like&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Coding&lt;/li&gt;
+&lt;li&gt;Graphic Designing&lt;/li&gt;
+&lt;li&gt;Sports&lt;/li&gt;
+&lt;li&gt;Art&lt;/li&gt;
+&lt;li&gt;Gaming&lt;/li&gt;
+&lt;li&gt;Traveling&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;I have a lot of hobbies, and I think everyone has their own as well. I&amp;rsquo;d mention that I love to do coding as a hobby. And in that stream I like to do Vibe Coding, Game Dev and Website Building stuff. If I dig deeper into Game Dev as a hobby of mine, I am a complete beginner at right now. Currently, I only participated in a one Game Jam, with a teammate. Game development wasn’t originally my hobby. My teammate convinced me to join a Game Jam, even though we knew we probably wouldn’t place. It was a great experience, though, and now I love game development—it’s become a new hobby of mine. So big shoutout to my teammate. I can’t mention his name since I didn’t ask for permission. But if you guys dig a bit deeper into EXE 2025 Game Jam you will find my teammate. Again, a big shoutout to him. And I will make a New Blog post about the whole Game Jam after the ceremony.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
