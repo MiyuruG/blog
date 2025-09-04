@@ -112,3 +112,8 @@ for filename in os.listdir(posts_dir):
 
 print("All images processed and copied to static/images.")
 print("All image references updated in markdown files.")
+print("\n" + "="*60)
+print("COMPLETE WORKFLOW FINISHED:")
+print("1. ✅ Robocopy mirror: Obsidian posts → Hugo content/posts")
+print("2. ✅ Image processing: Copy images and update references")
+print("="*60)

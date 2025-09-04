@@ -10,7 +10,7 @@ author: McBoss
 images:
   - images/Pasted image 20250901230214.png
 cover:
-  image: images/Pasted image 20250901230214.png
+  image: Pasted image 20250901230214.png
   alt: Who is McBoss
   relative: false
 categories: ["About", "Hobbies"]

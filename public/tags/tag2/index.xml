@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Tag2 on McBoss</title>
+    <link>http://localhost:1313/tags/tag2/</link>
+    <description>Recent content in Tag2 on McBoss</description>
+    <image>
+      <title>McBoss</title>
+      <url>http://localhost:1313/images/og-image.png</url>
+      <link>http://localhost:1313/images/og-image.png</link>
+    </image>
+    <generator>Hugo -- 0.149.0</generator>
+    <language>en-us</language>
+    <atom:link href="http://localhost:1313/tags/tag2/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Your Post Title</title>
+      <link>http://localhost:1313/posts/shit/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/shit/</guid>
+      <description>&lt;p&gt;shit on my face&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
