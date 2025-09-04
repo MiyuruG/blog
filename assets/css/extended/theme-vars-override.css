@@ -1,0 +1,79 @@
+:root {
+    --theme: #13151c;
+    --entry: #1a1d26;
+    --primary: #b4c8ff;
+    --secondary: rgba(180, 200, 255, 0.75);
+    --tertiary: rgba(180, 200, 255, 0.15);
+    --content: rgba(180, 200, 255, 0.85);
+    --hljs-bg: #0f1117;
+    --code-bg: #1e212a;
+    --border: rgba(180, 200, 255, 0.12);
+}
+
+.dark {
+    --theme: #13151c;
+    --entry: #1a1d26;
+    --primary: #b4c8ff;
+    --secondary: rgba(180, 200, 255, 0.75);
+    --tertiary: rgba(180, 200, 255, 0.15);
+    --content: rgba(180, 200, 255, 0.85);
+    --hljs-bg: #0f1117;
+    --code-bg: #1e212a;
+    --border: rgba(180, 200, 255, 0.12);
+}
+
+/* Additional styling for better cohesion */
+.post-entry {
+    background: var(--entry);
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    transition: all 0.3s ease;
+}
+
+.post-entry:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 4px 16px rgba(180, 200, 255, 0.1);
+}
+
+.post-tags .tag {
+    background: rgba(180, 200, 255, 0.1);
+    color: var(--primary);
+    border: 1px solid rgba(180, 200, 255, 0.2);
+    border-radius: 16px;
+    padding: 4px 12px;
+    font-size: 0.85em;
+    transition: all 0.2s ease;
+}
+
+.post-tags .tag:hover {
+    background: rgba(180, 200, 255, 0.2);
+    transform: scale(1.05);
+}
+
+/* Code blocks styling */
+pre, code {
+    background: var(--code-bg);
+    border: 1px solid rgba(180, 200, 255, 0.08);
+}
+
+/* Smooth scrolling and selection */
+* {
+    scrollbar-width: thin;
+    scrollbar-color: rgba(180, 200, 255, 0.3) transparent;
+}
+
+::selection {
+    background: rgba(180, 200, 255, 0.3);
+    color: var(--primary);
+}
+
+/* Links with subtle glow */
+a {
+    color: var(--primary);
+    text-decoration: none;
+    transition: all 0.2s ease;
+}
+
+a:hover {
+    text-shadow: 0 0 8px rgba(180, 200, 255, 0.4);
+}

@@ -4,51 +4,123 @@ title: McBoss
 theme: ["PaperMod"]
 
 params:
+  ShowShareButtons: true
+  assets:
+    favicon: "/favicon.ico"
+
+  # Theme settings
+  # defaultTheme: auto # to switch between light or dark according to browser theme
   # defaultTheme: light
   # defaultTheme: dark
   disableThemeToggle: true
+  
+  # Show tags and categories in posts
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: true
+  ShowWordCount: true
+  ShowRssButtonInSectionTermList: false
+  UseHugoToc: true
+  disableSpecial1stPost: false
+  disableScrollToTop: false
+  comments: false
+  hidemeta: false
+  hideSummary: false
+  showtoc: false
+  tocopen: false
 
+  # Home page info
   homeInfoParams:
-    Title: Hi there 👋
+    Title: "Hi there 👋"
     Content: |
-      This is my blog!  
+      Welcome to my blog!  
       I post anything I like: DevLogs, books, hobbies, games… anything.  
-      It's random, just how I like it. 
+      It's random, just how I like it.
 
-  socialIcons: # optional
-    - name: "<platform>"
-      url: "<link>"
-    - name: "<platform 2>"
-      url: "<link2>"
+  # Social media links
+  socialIcons:
+    - name: "github"
+      url: "https://github.com/MiyuruG"
+    - name: "discord"
+      url: "https://discord.gg/MAknfWe2Rf"
+    - name: "aboutme"
+      url: "aboutme"
 
+  # Search settings
+  fuseOpts:
+    isCaseSensitive: false
+    shouldSort: true
+    location: 0
+    distance: 1000
+    threshold: 0.4
+    minMatchCharLength: 0
+    keys: ["title", "permalink", "summary", "content"]
+
+# Output formats (necessary for search functionality)
 outputs:
   home:
     - HTML
-    - JSON # necessary for search
+    - JSON
 
+# Navigation menu
 menu:
   main:
     - identifier: home
       name: Home
       url: /
-      weight: 1
-    - identifier: archives
-      name: Archives
-      url: /archives/
-      weight: 3
-    - identifier: categories
-      name: Categories
-      url: /categories/
-      weight: 4
-    - identifier: tags
-      name: Tags
-      url: /tags/
-      weight: 5
-    - identifier: search
-      name: Search
-      url: /search/
-      weight: 6
+      weight: 10
     - identifier: posts
       name: Posts
       url: /posts/
-      weight: 7
+      weight: 20
+    - identifier: archives
+      name: Archives
+      url: /archives/
+      weight: 30
+    - identifier: categories
+      name: Categories
+      url: /categories/
+      weight: 40
+    - identifier: tags
+      name: Tags
+      url: /tags/
+      weight: 50
+    - identifier: search
+      name: Search
+      url: /search/
+      weight: 60
+
+# Markup settings for better content rendering
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+  highlight:
+    noClasses: false
+    codeFences: true
+    guessSyntax: true
+    lineNos: true
+    style: github
+
+# Enable emoji support
+enableEmoji: true
+
+# Pagination
+pagination:
+  pagerSize: 10
+
+# Privacy settings
+privacy:
+  vimeo:
+    disabled: false
+    simple: true
+  twitter:
+    disabled: false
+    enableDNT: true
+    simple: true
+  instagram:
+    disabled: false
+    simple: true
+  youtube:
+    disabled: false
+    privacyEnhanced: true

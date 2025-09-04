@@ -22,6 +22,6 @@ working on it...
 # testing 
 [hey test](https://www.youtube.com/watch?v=-05mOdHmQVc)
 
-[[Pasted image 20250831202724.png]]
+![](/images/Pasted%20image%2020250831202724.png)
 testing anime hehe
 
