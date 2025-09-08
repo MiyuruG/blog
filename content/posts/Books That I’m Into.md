@@ -61,6 +61,6 @@ So in the end, the reason I started to like reading books might just be that Ins
 
 ## The Subtle Art Of Not Giving A Fck
 ![](/images/Pasted%20image%2020250908225039.png)
-[The Subtle Are Of Not Giving A Fck](https://jumpbooks.lk/product/the-subtle-art-of-not-giving-a-fuck/): There isn't much of a story about this. So I'm a member of a discord server called [The Bookerfly Club](https://discord.gg/GeRaaWPv7U) and in a one random day I was just looking around in the `#currently-reading` channel and I just saw someone had posted a picture of this book and ASAP I searched it on YouTube, in Google and I thought this is the self-help book that I was looking for, and I just brought it. And now I am currently reading it.
+[**The Subtle Are Of Not Giving A Fck**](https://jumpbooks.lk/product/the-subtle-art-of-not-giving-a-fuck/): There isn't much of a story about this. So I'm a member of a discord server called [The Bookerfly Club](https://discord.gg/GeRaaWPv7U) and in a one random day I was just looking around in the `#currently-reading` channel and I just saw someone had posted a picture of this book and ASAP I searched it on YouTube, in Google and I thought this is the self-help book that I was looking for, and I just brought it. And now I am currently reading it.
 
 _That’s it for now… I’ll update this blog post in the future with more thoughts about reading and updates on my reading hobby._
