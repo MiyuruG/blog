@@ -1,7 +1,7 @@
 ---
 title: EXE 2025 GameJam
 date: 2025-08-28
-draft: false
+draft: true
 tags:
   - Game
   - Jam
@@ -15,7 +15,9 @@ cover:
   image: images/Pasted image 20250830171057.png
   alt: Who is McBoss
   relative: false
-categories: ["DevLogs", "Events"]
+categories:
+  - DevLogs
+  - Events
 ---
 working on it...
 

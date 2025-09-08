@@ -47,4 +47,20 @@ You see, that I have some issues in my life. I always kind an unmotivated and I 
 
 
 ![](/images/Pasted%20image%2020250901235216.png)
-[**The Fault In Our Stars**](https://www.imdb.com/title/tt2582846/) 
+[**The Fault In Our Stars**](https://www.imdb.com/title/tt2582846/). **_The Fault In Our Stars_** was the movie that made me start reading for the first time.  
+
+It happened like this: one day I was watching some Instagram Reels and saw a really sad clip from a movie. The reel was from this movie — **Hazel Grace** attending **Gus**'s funeral and giving a speech. It wasn’t Gus’s real funeral. **Gus** had just invited **Hazel Grace** to join his pre-funeral. I think Gus knew that he was going to die that day or the next. This “funeral” happened in the church, and **Isaac** was there too.  
+
+The reel came from that scene. **Hazel** gave a small speech, and it was heartbreaking. Because you see, all three of them (**Hazel, Gus, and Isaac**) had cancer, and they knew their lifespans were shorter than those of healthy people.  
+
+I don’t know why, but it hit me so hard that I wanted to buy the book and read it after watching the movie. Maybe it’s because my mother died of cancer when I was 14.  
+
+So yeah, I’m not going to spoil too much here. You can watch the movie or read the book yourself. It’s a great story 💔.  
+
+So in the end, the reason I started to like reading books might just be that Instagram reel, lol.
+
+## The Subtle Art Of Not Giving A Fck
+![](/images/Pasted%20image%2020250908225039.png)
+[The Subtle Are Of Not Giving A Fck](https://jumpbooks.lk/product/the-subtle-art-of-not-giving-a-fuck/): There isn't much of a story about this. So I'm a member of a discord server called [The Bookerfly Club](https://discord.gg/GeRaaWPv7U) and in a one random day I was just looking around in the `#currently-reading` channel and I just saw someone had posted a picture of this book and ASAP I searched it on YouTube, in Google and I thought this is the self-help book that I was looking for, and I just brought it. And now I am currently reading it.
+
+_That’s it for now… I’ll update this blog post in the future with more thoughts about reading and updates on my reading hobby._
