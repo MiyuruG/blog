@@ -4,6 +4,7 @@ title: McBoss
 theme: ["PaperMod"]
 
 params:
+
   ShowShareButtons: true
   assets:
     favicon: "/favicon.ico"
@@ -32,6 +33,20 @@ params:
     - name: "aboutme"
       url: "aboutme"
 
+  # Giscus comments configuration
+  giscus:
+    repo: "cdwilson/cdwilson.dev"
+    repoID: "R_kgDOGzJrfg"
+    category: "Articles"
+    categoryID: "DIC_kwDOGzJrfs4CP2TM"
+    mapping: "og:title"
+    reactionsEnabled: "1"
+    emitMetadata: "0"
+    inputPosition: "bottom"
+    theme: "dark_tritanopia"
+    lang: "en"
+    loading: "lazy"
+
   # Theme settings
   # defaultTheme: auto # to switch between light or dark according to browser theme
   # defaultTheme: light
@@ -47,7 +62,7 @@ params:
   UseHugoToc: true
   disableSpecial1stPost: false
   disableScrollToTop: false
-  comments: false
+  comments: true
   hidemeta: false
   hideSummary: false
   showtoc: false

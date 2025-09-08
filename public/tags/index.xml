@@ -35,41 +35,6 @@
       <description></description>
     </item>
     <item>
-      <title>Dev</title>
-      <link>http://localhost:1313/tags/dev/</link>
-      <pubDate>Thu, 28 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/dev/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Events</title>
-      <link>http://localhost:1313/tags/events/</link>
-      <pubDate>Thu, 28 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/events/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Game</title>
-      <link>http://localhost:1313/tags/game/</link>
-      <pubDate>Thu, 28 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/game/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>GameJam</title>
-      <link>http://localhost:1313/tags/gamejam/</link>
-      <pubDate>Thu, 28 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/gamejam/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Jam</title>
-      <link>http://localhost:1313/tags/jam/</link>
-      <pubDate>Thu, 28 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/jam/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>About</title>
       <link>http://localhost:1313/tags/about/</link>
       <pubDate>Sun, 01 Dec 2024 00:00:00 +0000</pubDate>

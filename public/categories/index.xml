@@ -28,20 +28,6 @@
       <description></description>
     </item>
     <item>
-      <title>DevLogs</title>
-      <link>http://localhost:1313/categories/devlogs/</link>
-      <pubDate>Thu, 28 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/categories/devlogs/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Events</title>
-      <link>http://localhost:1313/categories/events/</link>
-      <pubDate>Thu, 28 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/categories/events/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>MyLife</title>
       <link>http://localhost:1313/categories/mylife/</link>
       <pubDate>Thu, 28 Aug 2025 00:00:00 +0000</pubDate>
