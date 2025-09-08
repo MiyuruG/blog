@@ -42,7 +42,7 @@ params:
     mapping: "og:title"
     reactionsEnabled: "1"
     emitMetadata: "0"
-    inputPosition: "bottom"
+    inputPosition: "top"
     theme: "dark_tritanopia"
     lang: "en"
     loading: "lazy"
