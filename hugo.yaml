@@ -4,10 +4,6 @@ title: McBoss
 theme: ["PaperMod"]
 
 params:
-    ShowReadingTime: true
-    ShowToc: true
-    TocOpen: true
-
 
   ShowShareButtons: true
   assets:
