@@ -5,11 +5,6 @@ theme: ["PaperMod"]
 
 params:
     ShowReadingTime: true
-    hideAuthor: false
-    hideDate: false
-    hideCategories: false
-    hideTags: false
-    hideShareButtons: false
     ShowToc: true
     TocOpen: true
 
