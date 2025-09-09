@@ -4,7 +4,14 @@ title: McBoss
 theme: ["PaperMod"]
 
 params:
+    hideReadingTime: false
+    hideAuthor: false
+    hideDate: false
+    hideCategories: false
+    hideTags: false
+    hideShareButtons: false
 
+    
   ShowShareButtons: true
   assets:
     favicon: "/favicon.ico"
