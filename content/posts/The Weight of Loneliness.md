@@ -43,7 +43,7 @@ In the end I realize that I was just invisible to everyone.
 Teenage is a very big thing for teenagers. And here I am speaking _as a teenager_. 
 I go to school every day, I sit with people that I thought they were my friends. Sometimes I ask for help but no one want to help me. And I know I have helped them more than I ask for help from them. But they don't remember anything. In the school, people just gang up. Like everyone, have a little small friend group. They be always together, sit together, eat together. I had a little group like that. I thought people in my group do care about each other. But it is just not like that. They are just there with in the group because they expect some gold from it. Not for just friendships. And if I look at them one by one, they all have friends outside the group. And in the end again I was someone invisible, no one want to really keep some company with me. It's just like that, every time.
 
-See this is what _Teenagers_ want. **Love**, **Care**, **Be Someone**.
+See, this is what _Teenagers_ want. **Love**, **Care**, **Be Someone**.
 They want to be **loved**.
 They want to be **cared**.
 Furthermore, they want to **be someone**, they want to be **noticed**.
@@ -81,3 +81,6 @@ I suggest watching the **_1st season of 13 Reasons Why_** to see how loneliness,
 * Suwa Seriya Ambulance Service: **1990** – [1990.lk](http://www.1990.lk/)
 #### **Online Support**
 * Befrienders Worldwide: [https://befrienders.org](https://befrienders.org) – Free, confidential online chat support available globally.
+
+## Overcoming Loneliness
+
