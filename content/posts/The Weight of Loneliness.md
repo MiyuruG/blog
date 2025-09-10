@@ -44,16 +44,16 @@ Teenage is a very big thing for teenagers. And here I am speaking _as a teenager
 I go to school every day, I sit with people that I thought they were my friends. Sometimes I ask for help but no one want to help me. And I know I have helped them more than I ask for help from them. But they don't remember anything. In the school, people just gang up. Like everyone, have a little small friend group. They be always together, sit together, eat together. I had a little group like that. I thought people in my group do care about each other. But it is just not like that. They are just there with in the group because they expect some gold from it. Not for just friendships. And if I look at them one by one, they all have friends outside the group. And in the end again I was someone invisible, no one want to really keep some company with me. It's just like that, every time.
 
 See this is what _Teenagers_ want. **Love**, **Care**, **Be Someone**.
-They want to be loved.
-They want to be cared.
-Furthermore, they want to be someone, they want to be noticed.
+They want to be **loved**.
+They want to be **cared**.
+Furthermore, they want to **be someone**, they want to be **noticed**.
 
 Emotions are the only things teenagers have. They don't have money, they don't have their own properties, they don't have anything until they face the real life after the teenage years. Emotions are the things why teenagers look for girlfriends or boyfriends. They want to express their emotions. 
 
 When they don't get those things in their life that is when they start to feel _lonely_.
 Teenagers like to talk about their stuff with someone in their age more than talking to their parents. When they are talking to people in there age they **_think these people get me_**, and if you have being the one who listen to your friends stuff you might get almost about everything he/she tells you. I wanted to talk about my stuff with someone, be open to someone and just talk about everything with honest. But I don't have anyone to be with me and to listen to my stuff.
 
-If you have watched the Netflix series **_13 Reasons Why_**, you might have seen how much she wanted someone to listen to her stories. She tried to talk to the School Counselor. She tried to share that she felt like she wanted to end her life during her Social class (I don’t remember the exact name of the class). She even tried to reach out to her mother, giving one last chance to be heard. But no one showed any real interest. That day ended in her suicide.  
+If you have watched the Netflix series **_13 Reasons Why_**, you might have seen how much she wanted someone to listen to her stories. She tried to talk to the School Counselor. She tried to share that she felt like she wanted to end her life during her Social class (I don’t remember the exact name of the class). Not only that, but she even tried to reach out to her mother, giving one last chance to be heard. But no one showed any real interest. That day ended in her suicide.  
 
 Everyone bullied her. High school was a nightmare for her. Since starting high school, she had been bullied, harassed, and even raped by a boy. She wanted someone who could understand her, someone who would really hear her. But there was no one.  
 
