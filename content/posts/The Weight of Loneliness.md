@@ -61,7 +61,7 @@ I suggest watching the **_1st season of 13 Reasons Why_** to see how loneliness,
 
 **If you are feeling lonely, overwhelmed, or in crisis, you are not alone. Help is available—please reach out to a local or international support service.**
 
-### **Global Crisis & Mental Health Support Contacts**
+### Global Crisis & Mental Health Support Contacts
 * **International Hotline Directory:** [https://findahelpline.com](https://findahelpline.com) – Find crisis helplines in your country.
 #### **United States**
 * National Suicide & Crisis Lifeline: **Dial 988** or [https://suicidepreventionlifeline.org](https://suicidepreventionlifeline.org)
