@@ -1,16 +1,16 @@
 ---
 title: The Fault In Our Stars Review
 date: 2025-09-02
-draft: true
+draft: false
 tags:
   - Books
   - Abouts
   - Hobby
 author: McBoss
 images:
-  - images/Pasted image 20250901230214.png
+  - images/Pasted image 20250925003152.png
 cover:
-  image: images/Pasted image 20250901230214.png
+  image: images/Pasted image 20250925003152.png
   alt: Who is McBoss
   relative: false
 categories:
@@ -21,6 +21,7 @@ comments: "true"
 # The Fault In Our Stars - The first book I ever read
 My journey of reading books began with this one. I happened to watch the movie adaptation first, and that inspired me to pick up the book it was based on.
 
+![](/images/Pasted%20image%2020250925003152.png)
 ## About the book
 
 The story follows **Hazel Grace**, a teenage girl who has been living with thyroid cancer that spread to her lungs. She has been dealing with the illness since childhood, trying to live as strongly as she can despite her limited strength, carrying its weight throughout most of her life. Because of the cancer, Hazel struggles with her breathing and relies on an oxygen tank to help her get through each day.
