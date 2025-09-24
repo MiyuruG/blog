@@ -1,6 +1,6 @@
 ---
 title: The Fault In Our Stars Review
-date: 2025-09-02
+date: 2025-09-25
 draft: false
 tags:
   - Books
