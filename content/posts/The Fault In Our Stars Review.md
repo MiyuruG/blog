@@ -33,7 +33,7 @@ A few weeks later, Gus got very sick with his secret osteosarcoma, a type of bon
 
 A few hours after Hazel went to sleep, she received the news of Gus's passing from her parents.
 
-## What we can take from this book to your life
+## What you can take from this book to your life
 
 You can have the most awful and painful times in your life. Even when it’s really hard to deal with these moments, you can always find joy no matter what situation you’re in. 
 
