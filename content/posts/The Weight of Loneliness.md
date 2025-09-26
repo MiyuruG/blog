@@ -1,7 +1,7 @@
 ---
 title: The Weight of Loneliness
 date: 2025-09-09
-draft: false
+draft: true
 tags:
   - Abouts
   - Life

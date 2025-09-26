@@ -6,7 +6,7 @@ tags:
   - Books
   - Abouts
   - Hobby
-author: McBoss
+author: Miyuru Gunatilake | AKA McBoss
 images:
   - images/Pasted image 20250925003152.png
 cover:
