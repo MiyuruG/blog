@@ -35,10 +35,10 @@ params:
 
   # Giscus comments configuration
   giscus:
-    repo: "cdwilson/cdwilson.dev"
-    repoID: "R_kgDOGzJrfg"
-    category: "Articles"
-    categoryID: "DIC_kwDOGzJrfs4CP2TM"
+    repo="MiyuruG/blog"
+    repoID: "R_kgDOPp8-wA"
+    category: "General"
+    categoryID: "DIC_kwDOPp8-wM4CvJNW"
     mapping: "og:title"
     reactionsEnabled: "1"
     emitMetadata: "0"
