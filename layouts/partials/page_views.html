@@ -1,22 +1,18 @@
-<!-- GoatCounter tracking & pageview display -->
-<span class="page-views" id="{{ .File.UniqueID }}">
-  Loading views...
-</span>
-
-<!-- Official GoatCounter script -->
-<script data-goatcounter="https://miyurug.goatcounter.com/count"
-        async src="//gc.zgo.at/count.js"></script>
+<span id="{{ .File.UniqueID }}">Loading views...</span>
 
 <script>
-  // Wait until the GoatCounter script is loaded
-  window.addEventListener('load', function() {
-    // Use GoatCounter API if available
-    if (window.goatcounter && typeof window.goatcounter.count === "function") {
-      // Update the span with views using GoatCounter's count function
-      const el = document.getElementById('{{ .File.UniqueID }}');
-      // GoatCounter doesn't provide a public JSON for counts due to CORS,
-      // but you can link to GoatCounter dashboard or show "View count recorded"
-      el.innerText = 'View count recorded';
-    }
-  });
+  (function() {
+    const el = document.getElementById('{{ .File.UniqueID }}');
+    const pageUrl = encodeURIComponent(window.location.href);
+
+    fetch('https://page-views-counter.netlify.app/page_view?page=' + pageUrl)
+      .then(response => response.json())
+      .then(data => {
+        el.innerText = data.data.view_count + ' views';
+      })
+      .catch(err => {
+        console.error('Failed to load page views:', err);
+        el.innerText = '0 views';
+      });
+  })();
 </script>
