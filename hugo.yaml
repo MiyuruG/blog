@@ -37,8 +37,8 @@ params:
   giscus:
     repo: "MiyuruG/blog"
     repoID: "R_kgDOPp8-wA"
-    category: "[ENTER CATEGORY NAME HERE]"
-    categoryID: "[ENTER CATEGORY ID HERE]"
+    category: "General"
+    categoryID: "DIC_kwDOPp8-wM4CvJNW"
     mapping: "pathname"
     strict: "0"
     reactionsEnabled: "1"
