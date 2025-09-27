@@ -35,17 +35,19 @@ params:
 
   # Giscus comments configuration
   giscus:
-    repo="MiyuruG/blog"
+    repo: "MiyuruG/blog"
     repoID: "R_kgDOPp8-wA"
-    category: "General"
-    categoryID: "DIC_kwDOPp8-wM4CvJNW"
-    mapping: "og:title"
+    category: "[ENTER CATEGORY NAME HERE]"
+    categoryID: "[ENTER CATEGORY ID HERE]"
+    mapping: "pathname"
+    strict: "0"
     reactionsEnabled: "1"
     emitMetadata: "0"
-    inputPosition: "top"
-    theme: "dark_tritanopia"
+    inputPosition: "bottom"
+    theme: "preferred_color_scheme"
     lang: "en"
     loading: "lazy"
+
 
   # Theme settings
   # defaultTheme: auto # to switch between light or dark according to browser theme
